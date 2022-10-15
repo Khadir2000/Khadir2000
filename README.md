@@ -1,6 +1,6 @@
 [![@shaikhkhadir's Holopin board](https://holopin.io/api/user/board?user=shaikhkhadir)](https://holopin.io/@shaikhkhadir)
 
-- 👋 Hi, I’m @Khadir2000
+- 👋 Hi, I’m Khadir Shaikh 
 - 👀 I’m interested in searching new things in Tech
 - 🌱 I’m currently learning Computer Language 
 - 💞️ I’m looking to collaborate on Youtube and other social media account
