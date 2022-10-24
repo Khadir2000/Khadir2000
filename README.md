@@ -9,11 +9,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Khadir&label=Profile%20views&color=0e75b6&style=flat" alt="Khadir" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Khadir" alt="Khadir" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="(https://www.linkedin.com/in/khadir-shaikh-9a5489196)/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.linkedin.com/in/khadir-shaikh-9a5489196)" alt="https://www.linkedin.com/in/khadir-shaikh-9a5489196" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/shaikhkhadir4421/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shaikhkhadir4421/" height="30" width="40" /></a>
+### 🏆 GitHub Profile Trophy:
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=khadir2000&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+</a>
 </p>
+
+<br>
 <!---
 Khadir2000/Khadir2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
