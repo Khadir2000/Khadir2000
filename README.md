@@ -10,6 +10,12 @@
 [instagram]: https://instagram.com/shaikhkhadir4421
 [linkedin]: https://www.linkedin.com/in/khadir-shaikh-9a5489196
 
+<p align="center">
+<a href="mailto: skkhadir5577@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/khadir-shaikh-9a5489196/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%" /></a>
+<a href="https://twitter.com/Shaikhkhadir8" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Khadir&label=Profile%20views&color=0e75b6&style=flat" alt="Khadir" /> </p>
 
 ### 🏆 GitHub Profile Trophy:
