@@ -6,8 +6,11 @@
 - 💞️ I’m looking to collaborate on Youtube and other social media account
 - 📫 How to reach me skkhadir5577@gmail.com 
 
+[twitter]: https://twitter.com/Shaikhkhadir8
+[instagram]: https://instagram.com/shaikhkhadir4421
+[linkedin]: https://www.linkedin.com/in/khadir-shaikh-9a5489196
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Khadir&label=Profile%20views&color=0e75b6&style=flat" alt="Khadir" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Khadir" alt="Khadir" /></a> </p>
 
 ### 🏆 GitHub Profile Trophy:
 <p align="center">
@@ -17,6 +20,13 @@
 </p>
 
 <br>
+
+### 📈 GitHub Activity:
+
+  <a href="https://github.com/khadir2000/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=khadir2000&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> 
+
+
+<br> 
 <!---
 Khadir2000/Khadir2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
