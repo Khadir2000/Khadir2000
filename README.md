@@ -26,13 +26,6 @@
 </p>
 
 <br>
-
-### 📈 GitHub Activity:
-
-  <a href="https://github.com/khadir2000/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=khadir2000&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> 
-
-
-<br> 
 <!---
 Khadir2000/Khadir2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
